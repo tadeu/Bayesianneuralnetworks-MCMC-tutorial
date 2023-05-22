@@ -1,0 +1,15 @@
+dependencies:
+- bottleneck
+- dask
+- ipywidgets
+- jupyter
+- jupyterlab
+- netCDF4
+- numpy
+- python =3.10
+- scikit-learn
+- scipy
+- seaborn
+- tqdm
+- xarray
+name: mcmc-tutorial
